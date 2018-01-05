@@ -1,4 +1,4 @@
-# docker-ansible_molecule
+# docker-molecule
 
 ## Docker Hub
 [rossbannerman/molecule](https://hub.docker.com/r/rossbannerman/molecule/)
